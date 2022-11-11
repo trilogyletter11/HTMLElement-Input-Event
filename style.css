@@ -1,0 +1,39 @@
+body {
+  font-family: "arial", sans-serif;
+  text-align: center;
+  margin-top: 5%;
+}
+
+h2 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 33px;
+  font-weight: bold;
+  margin-bottom: 33px;
+}
+
+div #result {
+  color: gray;
+}
+
+h4 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+#input,
+#input2 {
+  width: 20rem;
+  height: 2rem;
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0);
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+#result {
+  width: 20rem;
+  height: 5rem;
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0);
+  border: none;
+  border-radius: 5px;
+}
